@@ -1,0 +1,13 @@
+# Site settings
+title: Fab Antipodes
+email: fabantipodes@gmail.com
+description: "The regional network of Fab Labs affiliated with MIT in Australasia and the South Pacific." #comment
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+twitter_username: FabAntipodes
+github_username:
+
+# Build settings
+markdown: kramdown
